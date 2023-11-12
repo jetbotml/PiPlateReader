@@ -24,5 +24,7 @@ There are many on the internet but most I found use an older version of Raspberr
     - Object and Animal Recognition With Raspberry Pi and OpenCV https://core-electronics.com.au/guides/object-identify-raspberry-pi/
     - Tips
       - Test your camera to make sure it is working before running the object-ident.py   run: raspistill -o Desktop/image.jpg
-      - Suggest keeping pi as the user. The tutorial uses path /home/pi. 
+      - Suggest keeping pi as the user. The tutorial uses path /home/pi.
+
+
 ![image](https://github.com/jetbotml/PiPlateReader/assets/66527036/d9aa29d8-d05a-408f-b4b5-19e41110a22d)
