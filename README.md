@@ -20,7 +20,7 @@
 
 There are many on the internet but most I found use an older version of Raspberry Pi OS. (Buster) After trying to use the latest Raspberry PI OS (64) release 2023-10-10, I decided to follow a tutorial to just get it working.
 
-1. Start with this tutorial. It took several hours to get and build OpenCV. Good instructions and some good links in the Acknowledgments section. 
+1. Start with this tutorial. It took several hours to get and build OpenCV but they are good instructions. 
     - Object and Animal Recognition With Raspberry Pi and OpenCV https://core-electronics.com.au/guides/object-identify-raspberry-pi/
     - Tips
       - Test your camera to make sure it is working before running the object-ident.py   run: raspistill -o Desktop/image.jpg
