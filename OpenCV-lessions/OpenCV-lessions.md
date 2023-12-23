@@ -1,3 +1,5 @@
-https://toptechboy.com/tracking-an-object-of-interest-based-on-color-in-opencv-on-raspberry-pi/
+https://www.youtube.com/playlist?list=PLGs0VKk2DiYxdMjCJmcP6jt4Yw6OHK85O
 
-https://toptechboy.com/tracking-an-object-of-interest-based-on-color-in-opencv-on-raspberry-pi
+Start at Raspberry Pi **LESSON 45**: Using the Raspberry Pi Camera in Bullseye with OpenCV
+
+  - Lesson 44 shows how to use OpenCV with pi legacy camera support
