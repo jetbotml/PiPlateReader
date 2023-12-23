@@ -41,6 +41,9 @@
     Learn the basics of image processing with OpenCV.
 
 -----------------------------
+Current Progress
+-----------------------------
+
 
 6. License Plate Detection:
     Start with simple object detection techniques to locate license plates in images.
