@@ -44,7 +44,7 @@
     - Install OpenCV (ver 
         - sudo apt install python3-opencv -y
     - Learn the basics of image processing with OpenCV
-        - Good tutorials here -  
+        - Good tutorials here -  OpenCV-lessions
 
    Install OpenCV, a popular computer vision library for Python, on your Raspberry Pi.
     .
