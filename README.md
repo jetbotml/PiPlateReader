@@ -47,7 +47,7 @@
         - Good tutorials here -  [https://github.com/jetbotml/PiPlateReader/blob/main/OpenCV-lessions/OpenCV-lessions.md](https://github.com/jetbotml/PiPlateReader/tree/main/OpenCV-Lessons)
 
 -----------------------------
-Current Progress
+Current Progress ends here 12/23/23
 -----------------------------
 
 
