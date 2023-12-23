@@ -18,7 +18,7 @@
 
 ## Learning Plan:
 
-1. Raspberry Pi Setup:
+1. **Raspberry Pi Setup:**
     - Install Raspberry Pi OS using Raspberry Pi Imager https://www.raspberrypi.com/software/
         - Pi Imager: v1.8.4
         - Pi Image: Bookworm (64-bit) 2023-12-05
@@ -30,13 +30,13 @@
     - Connect the Raspberry Pi Camera Module
         - Test by running rpicam-hello
 
-1. Python Basics:
+1. **Python Basics:**
     Make sure you are comfortable with Python programming as you will be using it extensively for this project.
 
-1. Camera Module Basics: 
+1. **Camera Module Basics: **
     Learn how to capture images and videos using the Raspberry Pi Camera Module. The official Raspberry Pi website has documentation on this.
 
-1. OpenCV Installation and Basics:
+1. **OpenCV Installation and Basics:**
     Install OpenCV, a popular computer vision library for Python, on your Raspberry Pi.
     Learn the basics of image processing with OpenCV.
 
