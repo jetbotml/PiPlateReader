@@ -29,6 +29,9 @@
         - sudo apt-get update && sudo apt-get upgrade -y
     - Connect the Raspberry Pi Camera Module
         - Test by running rpicam-hello
+    - Turn off Pi protected mode (optional if get error when installing OpenCV)
+        - cd /usr/lib/python3.11
+        - sudo rm EXTERNALLY-MANAGED
 
 1. **Python Basics:**
     Make sure you are comfortable with Python programming as you will be using it extensively for this project.
@@ -37,8 +40,14 @@
     Learn how to capture images and videos using the Raspberry Pi Camera Module. The official Raspberry Pi website has documentation on this.
 
 1. **OpenCV Installation and Basics:**
-    Install OpenCV, a popular computer vision library for Python, on your Raspberry Pi.
-    Learn the basics of image processing with OpenCV.
+   
+    - Install OpenCV (ver 
+        - sudo apt install python3-opencv -y
+    - Learn the basics of image processing with OpenCV
+        - Good tutorials here -  
+
+   Install OpenCV, a popular computer vision library for Python, on your Raspberry Pi.
+    .
 
 -----------------------------
 Current Progress
