@@ -44,7 +44,7 @@
     - Install OpenCV (ver 
         - sudo apt install python3-opencv -y
     - Learn the basics of image processing with OpenCV
-        - Good tutorials here -  https://github.com/jetbotml/PiPlateReader/blob/main/OpenCV-lessions/OpenCV-lessions.md
+        - Good tutorials here -  [https://github.com/jetbotml/PiPlateReader/blob/main/OpenCV-lessions/OpenCV-lessions.md](https://github.com/jetbotml/PiPlateReader/tree/main/OpenCV-Lessons)
 
 -----------------------------
 Current Progress
