@@ -33,7 +33,7 @@
 1. **Python Basics:**
     Make sure you are comfortable with Python programming as you will be using it extensively for this project.
 
-1. **Camera Module Basics: **
+1. **Camera Module Basics:**
     Learn how to capture images and videos using the Raspberry Pi Camera Module. The official Raspberry Pi website has documentation on this.
 
 1. **OpenCV Installation and Basics:**
