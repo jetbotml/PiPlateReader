@@ -9,4 +9,6 @@ Code samples are here:
 - 46 https://toptechboy.com/calculating-frames-per-second-fps-in-opencv-and-overlay-on-frame/
 - 53 https://toptechboy.com/tracking-an-object-of-interest-based-on-color-in-opencv-on-raspberry-pi/
 - 54 https://toptechboy.com/tracking-an-object-of-interest-in-opencv-using-contours-on-the-raspberry-pi/
-- 57 https://toptechboy.com/using-a-pan-tilt-camera-servo-to-track-an-object-of-interest-in-opencv/![image](https://github.com/jetbotml/PiPlateReader/assets/66527036/44c51ef1-522b-4774-87ec-9146e56df483)
+- 57 https://toptechboy.com/using-a-pan-tilt-camera-servo-to-track-an-object-of-interest-in-opencv
+
+
