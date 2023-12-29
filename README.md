@@ -53,6 +53,7 @@ Current Progress is here 12/29/23
 -----------------------------
 
 
+
 6. License Plate Detection:
     Start with simple object detection techniques to locate license plates in images.
     Experiment with OpenCV's contour detection and filtering techniques.
