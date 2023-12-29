@@ -1,5 +1,7 @@
 # Raspberry Pi license plate reader
 
+updated 12/29/23
+
 ## What you will need
 - Raspberry Pi 4 Model B (I'm using a 4 GB)
 - Raspberry Pi Camera Module
@@ -47,7 +49,7 @@
         - Good tutorials here -  [https://github.com/jetbotml/PiPlateReader/blob/main/OpenCV-lessions/OpenCV-lessions.md](https://github.com/jetbotml/PiPlateReader/tree/main/OpenCV-Lessons)
 
 -----------------------------
-Current Progress ends here 12/23/23
+Current Progress is here 12/29/23
 -----------------------------
 
 
