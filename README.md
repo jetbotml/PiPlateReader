@@ -1,6 +1,6 @@
 # Raspberry Pi license plate reader
 
-updated 12/29/23
+updated 12/31/23
 
 ## What you will need
 - Raspberry Pi 4 Model B (I'm using a 4 GB)
@@ -45,14 +45,15 @@ updated 12/29/23
    
     - Install OpenCV (ver 
         - sudo apt install python3-opencv -y
-    - Learn the basics of image processing with OpenCV
-        - Good tutorials here -  [https://github.com/jetbotml/PiPlateReader/blob/main/OpenCV-lessions/OpenCV-lessions.md](https://github.com/jetbotml/PiPlateReader/tree/main/OpenCV-Lessons)
-
+    - Learn the basics of image processing with OpenCV. Good tutorials here -  [https://github.com/jetbotml/PiPlateReader/blob/main/OpenCV-lessions/OpenCV-lessions.md](https://github.com/jetbotml/PiPlateReader/tree/main/OpenCV-Lessons)
+        - OpenCV on latest Pi OS version
+        - Color detection and object tracking
 -----------------------------
-Current Progress is here 12/29/23
+Current Progress is here 12/31/23
 -----------------------------
-
-
+        - General Object detection
+        - Car detection 
+        - Capture deteted image to create labled training data
 
 6. License Plate Detection:
     Start with simple object detection techniques to locate license plates in images.
