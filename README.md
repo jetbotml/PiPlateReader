@@ -50,9 +50,9 @@ updated 12/31/23
         - Color detection and object tracking
     - **Current Location (12/31/2023)**
         - General Object detection
-        - Car detection from live Pi camera
-        - Capture detected image to create labled training data
-
+        - Car detection
+        - Capture detected image to create labeled training data
+          
 6. License Plate Detection:
     Start with simple object detection techniques to locate license plates in images.
     Experiment with OpenCV's contour detection and filtering techniques.
