@@ -26,7 +26,7 @@ updated 12/31/23
         - Pi Image: Bookworm (64-bit) 2023-12-05
     - Boot and update Pi
         - Optional ssh key connection
-            - on pi create the .ssh director: mkdir /home/pi/.ssh
+            - on pi create the .ssh directory: mkdir /home/pi/.ssh
             - from Windows run: cat ~/.ssh/id_rsa.pub | ssh pi@xxx.xxx.xxx.xxx "cat >>~/.ssh/authorized_keys"
         - sudo apt-get update && sudo apt-get upgrade -y
     - Connect the Raspberry Pi Camera Module
