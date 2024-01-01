@@ -48,9 +48,7 @@ updated 12/31/23
     - Learn the basics of image processing with OpenCV. Good tutorials here -  [https://github.com/jetbotml/PiPlateReader/blob/main/OpenCV-lessions/OpenCV-lessions.md](https://github.com/jetbotml/PiPlateReader/tree/main/OpenCV-Lessons)
         - OpenCV on latest Pi OS version
         - Color detection and object tracking
------------------------------
-Current Progress is here 12/31/23
------------------------------
+        - **Current Location (12/31/2023)**
         - General Object detection
         - Car detection 
         - Capture deteted image to create labled training data
